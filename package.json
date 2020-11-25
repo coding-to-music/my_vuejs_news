@@ -1,0 +1,20 @@
+{
+  "name": "vuejs-news",
+  "version": "1.0.0",
+  "description": "Learn to build data-driven apps with Vue 2. Olayinka Omole creates a simple client to pull news stories from the New York Times API with the Axios library.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-to-music/vuejs-news.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-to-music/vuejs-news/issues"
+  },
+  "homepage": "https://github.com/coding-to-music/vuejs-news#readme"
+}

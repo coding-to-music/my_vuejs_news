@@ -1,7 +1,9 @@
 "use strict";
 
+// import config from './config.js'
+// const ApiKey = config.KEY;
 const NYTBaseUrl = "https://api.nytimes.com/svc/topstories/v2/";
-const ApiKey = config.KEY;
+const ApiKey = "RynjWYB0kY08YfP80s2BKNi9nNpLCtvr";
 const SECTIONS = "home, arts, automobiles, books, business, fashion, food, health, insider, magazine, movies, national, nyregion, obituaries, opinion, politics, realestate, science, sports, sundayreview, technology, theater, tmagazine, travel, upshot, world"; // From NYTimes
 
 function buildUrl (url) {
