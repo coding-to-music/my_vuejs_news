@@ -14,4 +14,11 @@ Read the article on SitePoint: https://www.sitepoint.com/fetching-data-third-par
 2. Copy `config.js.example` to `config.js`, and add your NYTimes API key (get from https://developer.nytimes.com).
 3. Open `index.html` in your web browser.
 
-
+run by:
+```bash
+node app.js
+```
+perhaps run by:
+```bash
+vue serve app.js
+```
